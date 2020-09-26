@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1",
+  "name": "Unda Da Sea",
+  "namespace": "Taimi.UndaDaSea_BlishHUD",
+  "version": "1.0.0-Blish",
+  "contributors": [
+	{
+      "name": "Tiny Taimi",
+      "username": "NullValue.4956"
+	}
+  ]
+  "description": "Take your Guild Wars 2 underwater combat to a whole new level, down where its wetter!",
+  "dependencies": {
+    "bh.blishhud": ">=0.4.2"
+  },
+  "url": "https://github.com/OpNop/UndaDaSea_BlishHUD",
+  "location": "https://github.com/OpNop/UndaDaSea-BlishHUD/releases/download/v1.0.0-Blish/UndaDaSea-BlishHUD.bhm",
+  "hash": "C248887684C108EFD2B6682E8B958E7F3EB9F4426D95EAE18C394EB623BA6C67"
+}
