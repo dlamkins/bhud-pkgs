@@ -1,4 +1,6 @@
 # bhud-pkgs
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdlamkins%2Fbhud-pkgs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdlamkins%2Fbhud-pkgs?ref=badge_shield)
+
 
 This repository contains the manifest files for **Blish HUD modules**.  You are highly encouraged to submit manifests for your modules so that they can be listed in the Blish HUD module viewer.  This also for users to easily discover your modules and automatically update their copies when you submit changes.
 
@@ -92,3 +94,6 @@ The PR request will go through a validation process.  This process may contain b
 # Credit
 
 Our repo format and process for Blish HUD packages heavily mirrors that of [winget-pkgs](https://github.com/microsoft/winget-pkgs), the package repository for [winget](https://docs.microsoft.com/en-us/windows/package-manager/winget/).
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdlamkins%2Fbhud-pkgs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdlamkins%2Fbhud-pkgs?ref=badge_large)
